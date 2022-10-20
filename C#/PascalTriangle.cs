@@ -9,7 +9,7 @@
 /// </summary>
 internal class PascalTriangle
 {
-    private static void PascalTriangle(int rowCount = 5)
+    private static void DisplayTriangle(int rowCount = 5)
     {
         for (int row = 1; row <= rowCount; row++)
         {
